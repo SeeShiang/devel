@@ -1,0 +1,1 @@
+Get-Service -Name nsrexecd -ComputerName contoso1

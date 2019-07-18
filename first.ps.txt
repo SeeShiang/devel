@@ -1,1 +1,3 @@
 Get-Service -Name nsrexecd -ComputerName contoso1
+
+Get-service -name cryptsvc 
